@@ -275,23 +275,23 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Amitai Finlayson’s Resume",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Aspiring Software Engineer, Analytical Problem Solver.\n\nProject: AI Chatbot for Canvas | Portfolio\n\n\n\nSophomore at Brigham Young University - Idaho, studying Computer Science.\n\n\nPython, JavaScript, C#, HTML/CSS; Advanced MySQL (CTEs, Window Functions, ERD); RESTful APIs, Object-Oriented Programming (OOP).\n\n\n\nArtificial Intelligence, Natural Language Processing, Full-stack Web Development, Database Architecture, Educational Technology.\n\n\n\n\nJan 2023 - present Brigham Young University - Idaho\n\nBachelor of Science in Computer Science\nExpected Graduation: Fall 2026\n\n\n\n\nFeb 2023 - present Computing Society for BYU Idaho Logistics Coordinator\n\nCoordinating industry networking trips to San Francisco.\nManaging logistics for company visits and professional networking events.\n\nOct 2021 - Nov 2023 The Church of Jesus Christ of Latter-day Saints, Anchorage, AK Full-time Volunteer Representative\n\nDedicated two years to community service and leadership.\nDeveloped high-level interpersonal communication, resilience, and a strong work ethic in a high-accountability environment.\n\n\n\n\n\n\n2024 AI Chatbot for Canvas (MVP) Developed a Python/Flask backend to interface with the Canvas API. Designed an interactive UI using JS/HTML/CSS. Currently implementing natural language processing features.\n2024 Database Design & Querying Advanced implementation of MySQL databases, focusing on data integrity, complex subqueries, and efficient schema design.\n\n\n\n\nDec 2023 - present Costa Vida, Ammon, ID Customer Service & Team Member\n\nStreamlined order processing in a high-volume environment.\nBalanced multiple technical and service tasks simultaneously to ensure operational efficiency.\n\nJune 2019 - Oct 2021 Service & Labor Roles, Idaho Broulim’s Fresh Foods / Taylor Sons, Inc\n\nDeveloped foundational professional habits: mentoring new team members, maintaining quality control, and resolving complex customer inquiries."
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "Amitai Finlayson’s Resume",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Sophomore at Brigham Young University - Idaho, studying Computer Science.\n\n\nPython, JavaScript, C#, HTML/CSS; Advanced MySQL (CTEs, Window Functions, ERD); RESTful APIs, Object-Oriented Programming (OOP).\n\n\n\nArtificial Intelligence, Natural Language Processing, Full-stack Web Development, Database Architecture, Educational Technology."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Amitai Finlayson’s Resume",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "Jan 2023 - present Brigham Young University - Idaho\n\nBachelor of Science in Computer Science\nExpected Graduation: Fall 2026"
   },
   {
     "objectID": "resume.html#awards",
@@ -310,9 +310,9 @@
   {
     "objectID": "resume.html#occupation",
     "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
+    "title": "Amitai Finlayson’s Resume",
     "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Dec 2023 - present Costa Vida, Ammon, ID Customer Service & Team Member\n\nStreamlined order processing in a high-volume environment.\nBalanced multiple technical and service tasks simultaneously to ensure operational efficiency.\n\nJune 2019 - Oct 2021 Service & Labor Roles, Idaho Broulim’s Fresh Foods / Taylor Sons, Inc\n\nDeveloped foundational professional habits: mentoring new team members, maintaining quality control, and resolving complex customer inquiries."
   },
   {
     "objectID": "Machine_Learning/project4.html",
@@ -484,5 +484,19 @@
     "crumbs": [
       "Full Stack"
     ]
+  },
+  {
+    "objectID": "resume.html#leadership-service",
+    "href": "resume.html#leadership-service",
+    "title": "Amitai Finlayson’s Resume",
+    "section": "",
+    "text": "Feb 2023 - present Computing Society for BYU Idaho Logistics Coordinator\n\nCoordinating industry networking trips to San Francisco.\nManaging logistics for company visits and professional networking events.\n\nOct 2021 - Nov 2023 The Church of Jesus Christ of Latter-day Saints, Anchorage, AK Full-time Volunteer Representative\n\nDedicated two years to community service and leadership.\nDeveloped high-level interpersonal communication, resilience, and a strong work ethic in a high-accountability environment."
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Amitai Finlayson’s Resume",
+    "section": "",
+    "text": "2024 AI Chatbot for Canvas (MVP) Developed a Python/Flask backend to interface with the Canvas API. Designed an interactive UI using JS/HTML/CSS. Currently implementing natural language processing features.\n2024 Database Design & Querying Advanced implementation of MySQL databases, focusing on data integrity, complex subqueries, and efficient schema design."
   }
 ]

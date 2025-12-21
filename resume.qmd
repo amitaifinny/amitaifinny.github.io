@@ -1,89 +1,80 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: resume
+title: Amitai Finlayson's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Amitai Finlayson
+Aspiring Software Engineer, Analytical Problem Solver.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/amitaifinny/canvas_ai">Project: AI Chatbot for Canvas</a> | 
+<a href="https://amitaifinny.github.io/">Portfolio</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Sophomore at Brigham Young University - Idaho, studying Computer Science.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Python, JavaScript, C#, HTML/CSS; Advanced MySQL (CTEs, Window Functions, ERD); RESTful APIs, Object-Oriented Programming (OOP).
 
 
-### Research interests
+### Technical Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Artificial Intelligence, Natural Language Processing, Full-stack Web Development, Database Architecture, Educational Technology.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Jan 2023 - present`
+__Brigham Young University - Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Science in Computer Science
+- Expected Graduation: Fall 2026
 
 
+## Leadership & Service
 
-## Awards
+`Feb 2023 - present`
+__Computing Society for BYU Idaho__
+*Logistics Coordinator*
 
-`2012`
-President, *Royal Society*, London, UK
+- Coordinating industry networking trips to San Francisco.
+- Managing logistics for company visits and professional networking events.
 
-Associate, *French Academy of Science*, Paris, France
+`Oct 2021 - Nov 2023`
+__The Church of Jesus Christ of Latter-day Saints__, Anchorage, AK
+*Full-time Volunteer Representative*
+
+- Dedicated two years to community service and leadership.
+- Developed high-level interpersonal communication, resilience, and a strong work ethic in a high-accountability environment.
 
 
+## Projects
 
-## Publications
+### Software Development
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2024`
+__AI Chatbot for Canvas (MVP)__
+Developed a Python/Flask backend to interface with the Canvas API. Designed an interactive UI using JS/HTML/CSS. Currently implementing natural language processing features.
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2024`
+__Database Design & Querying__
+Advanced implementation of MySQL databases, focusing on data integrity, complex subqueries, and efficient schema design.
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Dec 2023 - present`
+__Costa Vida__, Ammon, ID
+*Customer Service & Team Member*
 
-- Warden
-- Minted coins
+- Streamlined order processing in a high-volume environment.
+- Balanced multiple technical and service tasks simultaneously to ensure operational efficiency.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`June 2019 - Oct 2021`
+__Service & Labor Roles__, Idaho
+*Broulim's Fresh Foods / Taylor Sons, Inc*
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Developed foundational professional habits: mentoring new team members, maintaining quality control, and resolving complex customer inquiries.
